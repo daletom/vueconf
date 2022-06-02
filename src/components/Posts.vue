@@ -58,6 +58,24 @@
 <script setup>
 const posts = [
   {
+    title: 'Suspicious Man Joyriding on Tattooine',
+    href: '#',
+    category: { name: 'GIF', href: '#' },
+    description:
+      'A well groomed older man wearing robes was seen joyriding through Tattooine. Inquisitors and members of the Red Hot Chili Peppers have been looking for a similarly dressed man. If you see this man, contact your nearest office of the Inquisitorius with additional info.',
+    date: 'Jun 2, 2022',
+    datetime: '2022-06-02',
+    imageUrl:
+      'https://vueconf.flywheelsites.com/wp-content/uploads/2022/06/obiwan.gif',
+    readingTime: '1 min',
+    author: {
+      name: 'Tom Dale',
+      href: '#',
+      imageUrl:
+        'https://tom.imgix.net/krennic_profile.png?auto=format,compress&fit=facearea&facepad=2.5&w=75&dpr=2',
+    },
+  },
+  {
     title: 'Marauders Strike Again on Gargon',
     href: '#',
     category: { name: 'Article', href: '#' },
