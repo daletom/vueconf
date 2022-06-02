@@ -66,7 +66,7 @@ const posts = [
     date: 'Jun 2, 2022',
     datetime: '2022-06-02',
     imageUrl:
-      'https://tom.imgix.net/2021/02/cloudriders.jpeg',
+      'https://vueconf.flywheelsites.com/wp-content/uploads/2022/06/cloudriders-570x285.jpg',
     readingTime: '1 min',
     author: {
       name: 'Tom Dale',
@@ -84,7 +84,7 @@ const posts = [
     date: 'Jun 2, 2022',
     datetime: '2022-06-02',
     imageUrl:
-      'https://tom.imgix.net/2021/02/maxrebo.jpg',
+      'https://vueconf.flywheelsites.com/wp-content/uploads/2022/06/maxrebo-570x285.jpg',
     readingTime: '1 min',
     author: {
       name: 'Tom Dale',
@@ -102,7 +102,7 @@ const posts = [
     date: 'Jun 2, 2022',
     datetime: '2022-06-02',
     imageUrl:
-      'https://tom.imgix.net/2021/02/larshomestead.jpg',
+      'https://vueconf.flywheelsites.com/wp-content/uploads/2022/06/larshomestead-570x285.jpg',
     readingTime: '1 min',
     author: {
       name: 'Tom Dale',
@@ -120,7 +120,7 @@ const posts = [
     date: 'Jun 2, 2022',
     datetime: '2022-06-02',
     imageUrl:
-      'https://tom.imgix.net/2021/02/mustafarcastle.jpg',
+      'https://vueconf.flywheelsites.com/wp-content/uploads/2022/06/mustafarcastle-570x285.jpg',
     readingTime: '1 min',
     author: {
       name: 'Tom Dale',
@@ -138,7 +138,7 @@ const posts = [
     date: 'Jun 2, 2022',
     datetime: '2022-06-02',
     imageUrl:
-      'https://tom.imgix.net/2021/02/sleepingbag.jpeg',
+      'https://vueconf.flywheelsites.com/wp-content/uploads/2022/06/sleepingbag-570x285.jpg',
     readingTime: '1 min',
     author: {
       name: 'Tom Dale',
@@ -156,7 +156,7 @@ const posts = [
     date: 'Jun 2, 2022',
     datetime: '2022-06-02',
     imageUrl:
-      'https://tom.imgix.net/2021/02/aotcsenate.jpeg',
+      'https://vueconf.flywheelsites.com/wp-content/uploads/2022/06/aotcsenate-570x285.jpg',
     readingTime: '1 min',
     author: {
       name: 'Tom Dale',
@@ -170,11 +170,11 @@ const posts = [
     href: '#',
     category: { name: 'Article', href: '#' },
     description:
-      'Welcome to WordPress. This is your first post. Edit or delThis year’s Boonta Eve Classic at the Grand Arena on Tattoine saw an epic race between Sebulba and a young human boy. During the event, racers were attacked by a tribe of Tusken Raiders. On the final lap of the race young boy won!',
+      'This year’s Boonta Eve Classic at the Grand Arena on Tattoine saw an epic race between Sebulba and a young human boy. During the event, racers were attacked by a tribe of Tusken Raiders. On the final lap of the race young boy won!',
     date: 'Jun 2, 2022',
     datetime: '2022-06-02',
     imageUrl:
-      'https://tom.imgix.net/2021/02/podrace.jpg',
+      'https://vueconf.flywheelsites.com/wp-content/uploads/2022/06/podracer-570x285.jpg',
     readingTime: '1 min',
     author: {
       name: 'Tom Dale',
